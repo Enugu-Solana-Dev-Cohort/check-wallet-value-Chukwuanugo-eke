@@ -1,6 +1,6 @@
 # Solana Wallet Checker
 
-A beautiful, modern React application for looking up Solana wallet addresses on the blockchain with real-time validation and animated UI.
+A beautiful, modern React application for looking up Solana wallet addresses on the blockchain with real-time validation.
 
 ## Features
 
@@ -121,13 +121,6 @@ npm run preview
   - Timestamp
   - Direct link to Solscan
 
-### Animations
-- Floating Solana logos with random paths
-- Gradient orbs moving in the background
-- Input field glow on focus
-- Smooth card transitions
-- Loading skeleton screens
-- Hover effects on all interactive elements
 
 ## API & RPC
 
@@ -162,16 +155,8 @@ const RPC_ENDPOINTS = [
 - Safari (latest)
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
-## License
-
-MIT License - feel free to use this project for learning or production!
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## Acknowledgments
 
 - Built with ❤️ for the Solana ecosystem
 - Solana logo and branding © Solana Foundation
-- Inspired by modern Web3 design patterns
