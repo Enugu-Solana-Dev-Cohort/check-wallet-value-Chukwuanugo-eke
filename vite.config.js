@@ -6,5 +6,11 @@ export default defineConfig({
   server: {
     port: 3000,
     open: true
-  }
+  },
+
+  build: {
+    // increase this number from the default 500 kB
+    chunkSizeWarningLimit: 1000,
+  },
+  base: './',
 })
